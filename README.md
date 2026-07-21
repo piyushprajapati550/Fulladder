@@ -1,1 +1,2 @@
-# Fulladder
+
+A **Full Adder** is a combinational logic circuit that adds **three 1-bit inputs**: **A, B, and Carry-in (Cin)**. It produces **two outputs**: **Sum (S)** and **Carry-out (Cout)**. Unlike a half adder, a full adder can add a carry input along with the two input bits, making it suitable for multi-bit binary addition. It is commonly used in arithmetic logic units (ALUs), processors, and digital calculators.
